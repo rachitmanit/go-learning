@@ -1,5 +1,7 @@
 package main
 
+// Tutorial: https://www.youtube.com/watch?v=NNLpEPb2ddE&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6&index=4
+
 import (
 	"fmt"
 	"os"
